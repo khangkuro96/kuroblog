@@ -1,0 +1,15 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+
+#logo {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-image: asset-url('new_home_img.jpg');
+    background-size: cover;
+    height: 550px;
+    
+}
